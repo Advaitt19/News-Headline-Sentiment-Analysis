@@ -1,0 +1,13 @@
+#Before installation install these libraries.
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+tensorflow
+keras
+wordcloud
+joblib
+gradio
+requests
