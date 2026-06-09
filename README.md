@@ -54,16 +54,7 @@ News platforms generate thousands of headlines daily. Manually categorizing sent
 * NLTK
 * Matplotlib
 * Seaborn
-
-## Project Structure
-
-├── Apps
-├── Training Scripts
-├── data
-├── models
-├── reports
-├── README.md
-
+  
 ## Results
 
 * Successfully trained Logistic Regression and LSTM models.
